@@ -1,0 +1,19 @@
+{
+  "name": "nightcity",
+  "version": "1.0.0",
+  "description": "nightcity.me website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuayabut/nightcity.git"
+  },
+  "author": "joshuayabut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuayabut/nightcity/issues"
+  },
+  "homepage": "https://github.com/joshuayabut/nightcity#readme"
+}
